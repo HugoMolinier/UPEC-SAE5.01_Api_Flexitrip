@@ -1,6 +1,6 @@
 # SAE5.01 - Gestion et assistance des PMR
 
-Projet SAE5.01 réalisé dans le cadre du BUT Informatique. Ce projet s'est déroulé de septembre 2024 à janvier 2025 et constituait le projet majeur de notre premier semestre. L'objectif principal était de concevoir et de développer une API complète capable de faciliter la mobilité des personnes à mobilité réduite (PMR) dans des environnements multimodaux, tout en fournissant aux agents et accompagnants un outil de suivi et de gestion en temps réel.
+Projet SAE5.01 réalisé dans le cadre du BUT Informatique. Ce projet s'est déroulé de septembre 2024 à janvier 2025 et constituait le projet majeur de notre cinquième semestre. L'objectif principal était de concevoir et de développer une API complète capable de faciliter la mobilité des personnes à mobilité réduite (PMR) dans des environnements multimodaux, tout en fournissant aux agents et accompagnants un outil de suivi et de gestion en temps réel.
 
 L’API a été conçue l’application mobile et web destinée aux PMR, permettant aux utilisateurs de planifier et réserver leurs trajets, recevoir des notifications personnalisées et bénéficier d’une assistance adaptée à leurs besoins. Pour les agents et accompagnants, l’API fournit un tableau de bord en temps réel pour gérer les réservations, suivre les trajets, coordonner l’assistance et intervenir rapidement en cas de problème. Et pour communiquer avec les api des entreprises pour la reservation et optention des données de trajet.
 
